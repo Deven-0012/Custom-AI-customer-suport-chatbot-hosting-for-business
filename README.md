@@ -1,4 +1,4 @@
-# Chat-Craft: Domain Knowledge Based Internal Q&A Chatbot
+# CAAS
 
 Empower your enterprise with a customizable chatbot service that leverages your internal knowledge base to provide accurate, context-aware answers.
 
